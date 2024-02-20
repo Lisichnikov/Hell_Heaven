@@ -53,23 +53,6 @@ namespace WinFormsApp1
             {
                 pictureBox2.Visible = true;
             }
-            /*if (resChekAge)
-            {
-                label2.Text = "Документы выданы";
-            }
-            else
-            {
-                label2.Text = "Не можем выдать документы";
-            }*/
-
-            /*int a;
-            a = Convert.ToInt32(textBox1.Text);
-            if (a < 18)
-            {
-                label2.Text = "Не можем выдать документы";
-                return;
-            }
-            label2.Text = "Документы выданы";*/
         }
     }
 }
